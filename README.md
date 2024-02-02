@@ -1,1 +1,1 @@
-# leetcode
+[link](./note.md)
